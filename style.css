@@ -50,8 +50,10 @@ table {
 
 body {
 	background-color: #57595D;
-	margin: 10px 30px 10px 30px;
+	/* margin: 10px 30px 10px 30px; */
+	margin: 0 auto;
 	overflow: auto;
+	width: 960px;
 }
 .header {
 	padding: 30px;
@@ -72,7 +74,7 @@ body {
 	background-color: #eee;
 	text-align: center;
 	float: left;
-	width: 46%;
+	width: 45%;
 	height: 260px;
 	line-height: 50px;
 	margin-bottom: 20px;
@@ -107,7 +109,7 @@ body {
 	height: 260px;
 	margin-left: 10px;
 	margin-bottom: 20px;
-	width: 46%;
+	width: 45%;
 	overflow: auto;
 }
 
